@@ -1,0 +1,23 @@
+{
+  "name": "git-prac",
+  "version": "1.0.0",
+  "description": "For learning git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFrud/git-prac.git"
+  },
+  "keywords": [
+    "learn",
+    "git"
+  ],
+  "author": "FJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFrud/git-prac/issues"
+  },
+  "homepage": "https://github.com/TheFrud/git-prac#readme"
+}
